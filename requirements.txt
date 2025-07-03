@@ -1,0 +1,90 @@
+# CutList Pro - Dependências Python
+
+# Framework principal
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Processamento de dados
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualização
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+altair>=5.0.0
+
+# Geração de relatórios
+reportlab>=4.0.0
+openpyxl>=3.1.0
+fpdf2>=2.7.0
+weasyprint>=60.0
+
+# Processamento de arquivos
+Pillow>=10.0.0
+python-magic>=0.4.27
+
+# Algoritmos e matemática
+scikit-learn>=1.3.0
+networkx>=3.1
+
+# Utilitários
+requests>=2.31.0
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Parser SketchUp (quando disponível)
+# sketchup-api>=1.0.0  # Comentado até implementação
+
+# Desenvolvimento e testes
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.0.0
+
+# Configuração
+python-dotenv>=1.0.0
+toml>=0.10.2
+
+# Banco de dados (opcional)
+sqlite3  # Incluído no Python padrão
+
+# Processamento de geometria
+shapely>=2.0.0
+
+# Compressão e arquivos
+zipfile36>=0.1.3
+
+# Logging e monitoramento
+loguru>=0.7.0
+
+# Validação de dados
+pydantic>=2.0.0
+
+# Internacionalização
+babel>=2.12.0
+
+# Cache e performance
+streamlit-cache>=0.1.0
+
+# Componentes extras do Streamlit
+streamlit-aggrid>=0.3.4
+streamlit-plotly-events>=0.0.6
+streamlit-drawable-canvas>=0.9.0
+
+# Processamento de texto
+unidecode>=1.3.6
+
+# Formatação de números
+babel>=2.12.0
+
+# Validação de arquivos
+filetype>=1.2.0
+
+# Processamento paralelo
+joblib>=1.3.0
+
+# Configurações de ambiente
+python-decouple>=3.8
+
